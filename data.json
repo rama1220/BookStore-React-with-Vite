@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "foto": "https://cdn0-production-images-kly.akamaized.net/nOHlMhq9mPQ6u2AdkzELEaafRwk=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4018529/original/021662300_1652179132-MV5BZmNiZDM0MjktOGIyNS00Yjk1LWE0NGYtYzRiZGM0YTQ3NjU2XkEyXkFqcGdeQXVyNDg4MjkzNDk_._V1_.jpg",
+    "nama": "Ramadhan",
+    "umur": 27,
+    "alamat": "Jl. Contoh No. 123",
+    "email": "john.doe@example.com",
+    "telepon": "081234567890",
+    "pekerjaan": "PROGRAMMER"
+  }
+]

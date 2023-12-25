@@ -1,0 +1,102 @@
+{
+  "buku": [
+    {
+      "bookid": 1,
+      "judul": "The Catcher in the Rye",
+      "penulis": "J.D. Salinger",
+      "tahun_terbit": 1951,
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/800px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+      "sinopsis": "The Catcher in the Rye adalah novel karya J.D. Salinger yang mengisahkan perjalanan Holden Caulfield, seorang remaja yang mencoba menemukan makna kehidupan dalam dunia yang dianggapnya penuh kepalsuan."
+    },
+    {
+      "bookid": 2,
+      "judul": "To Kill a Mockingbird",
+      "penulis": "Harper Lee",
+      "tahun_terbit": 1960,
+      "gambar": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+      "sinopsis": "To Kill a Mockingbird adalah novel klasik karya Harper Lee yang menggambarkan kisah keadilan dan ketidakadilan dalam sistem hukum Amerika Serikat. Cerita berfokus pada peristiwa di kota kecil Maycomb, Alabama, selama era Depresi."
+    },
+    {
+      "bookid": 3,
+      "judul": "The Hobbit",
+      "penulis": "J.R.R. Tolkien",
+      "tahun_terbit": 1937,
+      "gambar": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_FMjpg_UX1000_.jpg",
+      "sinopsis": "The Hobbit adalah novel fantasi karya J.R.R. Tolkien yang mengikuti petualangan Bilbo Baggins saat ia bergabung dengan sekelompok kurcaci untuk merebut kembali Kerajaan Erebor dari naga Smaug."
+    },
+    {
+      "bookid": 4,
+      "judul": "Pride and Prejudice",
+      "penulis": "Jane Austen",
+      "tahun_terbit": 1813,
+      "gambar": "https://m.media-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "sinopsis": "Pride and Prejudice adalah novel klasik Jane Austen yang menceritakan kisah cinta antara Elizabeth Bennet dan Mr. Darcy, dengan latar belakang kehidupan masyarakat Inggris pada awal abad ke-19."
+    },
+    {
+      "bookid": 5,
+      "judul": "1984",
+      "penulis": "George Orwell",
+      "tahun_terbit": 1949,
+      "gambar": "https://otimages.com/Bookcover/2935/9780452262935.jpg",
+      "sinopsis": "1984 adalah novel George Orwell yang menggambarkan dunia dystopian di Oceania, diperintah oleh pemerintahan totaliter dan dipantau secara ketat oleh Big Brother. Novel ini mengeksplorasi tema-tema kebebasan, manipulasi, dan kontrol sosial."
+    },
+    {
+      "bookid": 6,
+      "judul": "The Great Gatsby",
+      "penulis": "F. Scott Fitzgerald",
+      "tahun_terbit": 1925,
+      "gambar": "https://musicart.xboxlive.com/7/99091100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "sinopsis": "The Great Gatsby adalah novel F. Scott Fitzgerald yang menggambarkan kehidupan mewah dan kehancuran moral di kalangan elite sosial di era Roaring Twenties Amerika."
+    },
+    {
+      "bookid": 7,
+      "judul": "One Hundred Years of Solitude",
+      "penulis": "Gabriel García Márquez",
+      "tahun_terbit": 1967,
+      "gambar": "https://cdn.gramedia.com/uploads/items/9786020613550_Seratus-Tahun.jpg",
+      "sinopsis": "One Hundred Years of Solitude adalah novel karya Gabriel García Márquez yang mengisahkan sejarah keluarga Buendía di kota Macondo, dengan unsur magis realisme yang khas."
+    },
+    {
+      "bookid": 8,
+      "judul": "Brave New World",
+      "penulis": "Aldous Huxley",
+      "tahun_terbit": 1932,
+      "gambar": "https://inc.mizanstore.com/aassets/img/com_cart/produk/covBT-011.jpg",
+      "sinopsis": "Brave New World adalah novel dystopian Aldous Huxley yang menggambarkan masyarakat masa depan yang diatur oleh teknologi dan kontrol pemerintah, dengan fokus pada dampak dehumanisasi dan kehilangan kebebasan individu."
+    },
+    {
+      "bookid": 9,
+      "judul": "The Lord of the Rings",
+      "penulis": "J.R.R. Tolkien",
+      "tahun_terbit": 1954,
+      "gambar": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+      "sinopsis": "The Lord of the Rings adalah trilogi epik J.R.R. Tolkien yang mengikuti perjalanan Frodo Baggins untuk menghancurkan Cincin Kekuasaan dan menghadapi kegelapan Sauron."
+    },
+    {
+      "bookid": 10,
+      "judul": "Frankenstein",
+      "penulis": "Mary Shelley",
+      "tahun_terbit": 1818,
+      "gambar": "https://m.media-amazon.com/images/I/81F1zX5RnWL._AC_UF1000,1000_QL80_.jpg",
+      "sinopsis": "Frankenstein adalah novel gothic karya Mary Shelley yang mengisahkan tentang kehidupan dan penderitaan Victor Frankenstein, seorang ilmuwan yang menciptakan makhluk hidup dari bagian-bagian tubuh manusia yang sudah mati. Meskipun awalnya bermaksud untuk menciptakan kehidupan yang lebih baik, Victor malah menciptakan monster yang tragis dan dilupakan."
+    },
+    {
+      "bookid": 11,
+
+      "judul": "The Alchemist",
+      "penulis": "Paulo Coelho",
+      "tahun_terbit": 1988,
+
+      "gambar": "https://ebooks.gramedia.com/ebook-covers/29408/big_covers/ID_HCO2015MTH12TALC.jpeg",
+      "sinopsis": "The Alchemist adalah novel karya Paulo Coelho yang mengisahkan perjalanan Santiago, seorang gembala yang mengikuti mimpinya untuk menemukan harta karun yang tersembunyi dan menemui kehidupan yang lebih bermakna."
+    },
+    {
+      "bookid": 12,
+      "judul": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "penulis": "C.S. Lewis",
+      "tahun_terbit": 1950,
+      "gambar": "https://i.harperapps.com/covers/9780061974151/x400.jpg",
+      "sinopsis": "The Lion, the Witch and the Wardrobe adalah bagian pertama dari seri The Chronicles of Narnia oleh C.S. Lewis. Kisah ini mengisahkan petualangan empat anak Pevensie di negeri ajaib Narnia, di mana mereka berhadapan dengan kekuatan jahat Ratu Putih."
+    }
+  ]
+}
